@@ -5,6 +5,8 @@ Pastash + Loki Exporter in Docker
 
 @paStash can be used to easily ship logs and other data to [Grafana Loki](https://github.com/grafana/loki) or [cLoki](https://github.com/lmangani/cloki/)
 
+For a complete, stand-alone example please consult the [paStash Wiki](https://github.com/sipcapture/paStash/wiki/Example:-Loki)
+
 
 ## Usage
 ```
